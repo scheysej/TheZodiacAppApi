@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TheZodiacApp</string>
+
+    <string name="taurusRef">Taurus</string>
+    <string name="geminiRef">Gemini</string>
+    <string name="cancerRef">Cancer</string>
+    <string name="leoRef">Leo</string>
+    <string name="virgoRef">Virgo</string>
+    <string name="libraRef">Libra</string>
+    <string name="scorpioRef">Scorpio</string>
+    <string name="sagittariusRef">Sagittarius</string>
+    <string name="capricornRef">Capricorn</string>
+    <string name="aquariusRef">Aquarius</string>
+    <string name="ariesRef">Aries</string>
+    <string name="piscesRef">Pisces</string>
+</resources>
